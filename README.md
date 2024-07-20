@@ -6,14 +6,15 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] make sure the assignment checks pass
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation: 
-how many points out of 10 do you deserve on this assignment: 
+how many points out of 10 do you deserve on this assignment: 10
 
 ## Self-Reflection:
-
+This assignment was confusing and frustrating because the instructions are unclear and outdated.
 
 ### How long it took me to finish this?
+2-3 hours
